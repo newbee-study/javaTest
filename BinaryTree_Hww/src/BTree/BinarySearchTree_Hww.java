@@ -21,7 +21,7 @@ public class BinarySearchTree_Hww<E> implements BinaryTreeInfo
 
 	public int size()
 	{
-		return size;
+		return size;//
 	}
 
 	public boolean isEmpty()
